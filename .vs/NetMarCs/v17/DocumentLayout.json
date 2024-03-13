@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jos\\source\\repos\\2024-NetMarVsoftCs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB03D26-0DD6-408C-AAA8-276CCE69E4E1}|NetMar\\NetMarCs.csproj|c:\\users\\jos\\source\\repos\\2024-netmarvsoftcs\\netmar\\formmim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB03D26-0DD6-408C-AAA8-276CCE69E4E1}|NetMar\\NetMarCs.csproj|solutionrelative:netmar\\formmim.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEB03D26-0DD6-408C-AAA8-276CCE69E4E1}|NetMar\\NetMarCs.csproj|C:\\Users\\Jos\\source\\repos\\2024-NetMarVsoftCs\\netmar\\formmim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEB03D26-0DD6-408C-AAA8-276CCE69E4E1}|NetMar\\NetMarCs.csproj|solutionrelative:netmar\\formmim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMim.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\\source\\repos\\2024-NetMarVsoftCs\\NetMar\\FormMim.Designer.cs",
+              "RelativeDocumentMoniker": "NetMar\\FormMim.Designer.cs",
+              "ToolTip": "C:\\Users\\Jos\\source\\repos\\2024-NetMarVsoftCs\\NetMar\\FormMim.Designer.cs",
+              "RelativeToolTip": "NetMar\\FormMim.Designer.cs",
+              "ViewState": "AQIAAEoBAAAAAAAAAAAIwFsBAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:24:51.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMim.cs",
+              "DocumentMoniker": "C:\\Users\\Jos\\source\\repos\\2024-NetMarVsoftCs\\NetMar\\FormMim.cs",
+              "RelativeDocumentMoniker": "NetMar\\FormMim.cs",
+              "ToolTip": "C:\\Users\\Jos\\source\\repos\\2024-NetMarVsoftCs\\NetMar\\FormMim.cs",
+              "RelativeToolTip": "NetMar\\FormMim.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAAAOYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T06:12:07.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

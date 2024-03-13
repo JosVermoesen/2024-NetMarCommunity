@@ -1,0 +1,7 @@
+*.db
+bin/
+obj/
+Content/
+wwwroot/
+secrets.*
+appsettings.json
